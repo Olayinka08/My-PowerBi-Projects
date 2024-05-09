@@ -38,7 +38,7 @@ Following inferences can be drawn from the dashboard;
   
   These ratings will not change if different visual filters will be applied.  
 
- ### [4] Some other insights
+ ### [3] Some other insights
  
  
 # Global Cost Of Living Crisis-Dashboard.md.txt
