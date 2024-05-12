@@ -38,7 +38,8 @@ Following inferences can be drawn from the dashboard;
   
   These ratings will not change if different visual filters will be applied.  
 
- ### [3] Some other insights
+ ![My first project](https://github.com/Olayinka08/My-PowerBi-Projects/assets/144460106/ba7c342e-a093-49e9-92a5-ada2adeffbd5)
+
  
  
 # Global Cost Of Living Crisis-Dashboard.md.txt
