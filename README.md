@@ -1,8 +1,6 @@
 
 # Global Cost Of Living Crisis-Dashboard
 
-### Dashboard Link :
-
 ## Problem Statement
 
 This dashboard helps to Understand that the cost of living is crucial for individuals, businesses, and policymakers to make informed decisions about financial planning, investment, and policy formulation. 
