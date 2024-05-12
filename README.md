@@ -5,7 +5,7 @@
 
 ## Problem Statement
 
-This dashboard helps to Understand the cost of living is crucial for individuals, businesses, and policymakers to make informed decisions about financial planning, investment, and policy formulation. 
+This dashboard helps to Understand that the cost of living is crucial for individuals, businesses, and policymakers to make informed decisions about financial planning, investment, and policy formulation. 
 The cost of living varies significantly across regions due to differences in housing prices, food costs, transportation expenses, healthcare costs, education expenses, income levels, and other socioeconomic factors.
 
 
